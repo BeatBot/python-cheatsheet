@@ -1469,7 +1469,7 @@ False
 - **isalnum()** returns True if the string consists only of lettersand numbers and is not blank.
 - **isdecimal()** returns True if the string consists only ofnumeric characters and is not blank.
 - **isspace()** returns True if the string consists only of spaces,tabs, and new-lines and is not blank.
-- **istitle()** returns True if the string consists only of words that begin with an uppercase letter followed by onlylowercase letters.
+- **istitle()** returns True if the string consists only of wordsthat begin with an uppercase letter followed by onlylowercase letters.
 
 [*Return to the Top*](#python-cheatsheet)
 
